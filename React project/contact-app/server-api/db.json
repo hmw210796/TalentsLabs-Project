@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "54e025f3-d723-4eff-8f16-87d34850fef0",
+      "name": "Ming Ho",
+      "email": "hmw210796@hotmail.com"
+    },
+    {
+      "id": "373ef031-5f64-4cde-a369-4268d4d34447",
+      "name": "Mike",
+      "email": "mike@test.com"
+    },
+    {
+      "id": "be092ba8-a72a-401a-acf7-b229c802f966",
+      "name": "Jun",
+      "email": "Cheah@gmail.com"
+    }
+  ]
+}
